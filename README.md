@@ -7,7 +7,7 @@ This repository documents my daily journey to mastering **Machine Learning, Deep
 Each day:
 - I learn one new ML concept (theory + code)
 - I implement one algorithm (manual + library)
-- I document everything here and on [Medium](https://medium.com/@YOUR_MEDIUM_LINK)
+- I document everything here and on [Medium]([https://medium.com/@YOUR_MEDIUM_LINK](https://medium.com/@savasivakumar271200))
 
 ---
 
