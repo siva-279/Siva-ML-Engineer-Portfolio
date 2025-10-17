@@ -7,7 +7,7 @@ This repository documents my daily journey to mastering **Machine Learning, Deep
 Each day:
 - I learn one new ML concept (theory + code)
 - I implement one algorithm (manual + library)
-- I document everything here and on [Medium]([https://medium.com/@YOUR_MEDIUM_LINK](https://medium.com/@savasivakumar271200))
+- I document everything here and on [Medium]((https://medium.com/@savasivakumar271200))
 
 ---
 
@@ -15,7 +15,7 @@ Each day:
 
 | Day | Topic | Notebook | Medium Article |
 |-----|--------|-----------|----------------|
-| 1 | What is Machine Learning? | [Notebook](Phase_1_Foundations/Day_01_What_is_Machine_Learning/code_demo.ipynb) | [Medium](https://medium.com/@YOUR_MEDIUM_LINK) |
+| 1 | What is Machine Learning? | [Notebook](Phase_1_Foundations/Day_01_What_is_Machine_Learning/code_demo.ipynb) | [Medium]((https://medium.com/@savasivakumar271200)) |
 
 ---
 
